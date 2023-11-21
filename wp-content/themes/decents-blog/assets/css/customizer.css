@@ -1,0 +1,7 @@
+#accordion-panel-decents_blog_theme_options .accordion-section-title, #accordion-panel-decents_blog_theme_options .accordion-section-title {
+    color: #50575e;
+    background-color: #e7c65f !important;
+    border-bottom: 1px solid #dcdcde;
+    border-left: 4px solid #fff;
+    transition: .15s color ease-in-out,.15s background-color ease-in-out,.15s border-color ease-in-out;
+}
